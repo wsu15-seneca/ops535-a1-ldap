@@ -1,0 +1,7 @@
+dn: dc=wsu15,dc=ops
+dc: wsu15
+description: root LDAP entry for wsu15
+objectClass: dcObject
+objectClass: organizationalUnit
+ou: rootobject
+

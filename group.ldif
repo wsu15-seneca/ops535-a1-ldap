@@ -1,0 +1,5 @@
+dn: ou=Group,dc=wsu15,dc=ops
+ou: Group
+description: All groups in wsu15
+objectClass: organizationalUnit
+

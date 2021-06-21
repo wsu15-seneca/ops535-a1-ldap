@@ -1,0 +1,10 @@
+dn: cn=config
+changetype: modify
+add: olcTLSCertificateFile
+olcTLSCertificateFile: /etc/openldap/certs/rns-ldap.wsu15.ops.crt
+-
+add: olcTLSCertificateKeyFile
+olcTLSCertificateKeyFile: /etc/openldap/certs/rns-ldap.wsu15.ops.key
+-
+add: olcTLSCACertificateFile
+olcTLSCACertificateFile: /etc/openldap/certs/ca.cert.pem 

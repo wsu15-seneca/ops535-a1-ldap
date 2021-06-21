@@ -1,0 +1,4 @@
+dn: ou=People, dc=wsu15, dc=ops
+ou: People
+description: All people in wsu15
+objectClass: organizationalUnit
